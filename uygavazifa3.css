@@ -1,0 +1,62 @@
+
+
+p{
+color: red;
+margin-left: 70px;
+margin-right: 130px;
+text-align: center;
+}
+h3{
+    color: springgreen;
+    margin-left: 430px;
+    margin-right: 350px; 
+}
+h2{
+    color: springgreen;
+    margin-left: 430px;
+    margin-right: 350px;
+}
+h1{
+    color: springgreen;
+    margin-left: 430px;
+    margin-right: 350px;
+}
+img{
+    border-radius: 10px;
+ }
+
+
+* {
+    margin-left: 61px;
+    margin-right: 50px; 
+    
+    
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+ul{
+    margin-left: 290px;
+    margin-right: 290px;
+    color:whitesmoke;
+} 
+a{
+    color:whitesmoke;
+    
+}
+
+
+iframe{
+    margin-left: 220px;
+    margin-right: 220px;  
+}
+
+body{
+    background-image: url(./rasmlar/rope.jpg);
+}
+iframe{
+    text-align: center;
+}
+
+

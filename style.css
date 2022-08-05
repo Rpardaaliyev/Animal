@@ -1,0 +1,42 @@
+body{
+    
+    background-image: url(./rasmlar/ror.jpg); 
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+ div{
+    /* text-align: center;
+     width: 600px;
+     height: 1030px;
+     margin: 30px auto;
+     box-shadow: 0px -5px 10px gray;
+     
+     background-image: url(./rasmlar/roor.jpg);  */
+     margin: auto;
+     text-align: center;
+     width: 600px;
+     height: 1030px;
+    
+     box-shadow: 0px -5px 10px gray;
+     background-color: rgb(115, 255, 0);
+     background-image: url(./rasmlar/roor.jpg);
+    
+ }  
+ a{
+    color: #fff;
+    text-decoration: none;
+ } 
+ .uio{
+    margin: auto;
+    text-align: center;
+    width: 400px;
+    height: 380px;
+   
+    box-shadow: 0px -5px 10px gray;
+    background-color: rgb(115, 255, 0);
+    background-image: url(./rasmlar/roor.jpg);
+    padding-right: 20px;
+    padding-left: 20px;   
+} 
